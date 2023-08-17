@@ -1,0 +1,320 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width:1199px) {
+.archive-btn {
+	margin: 4px 6px;
+	width: 18.09%;
+}
+.navbar-inverse .navbar-nav > li > a {
+    padding: 22px 10px !important;
+    transition-duration: .2s;
+}
+}
+@media only screen and (max-width: 1027px) {
+.logo:after {
+	display: none;
+}
+}
+@media only screen and (max-width: 990px) {
+.welcome {
+	padding-right: 15px !important;
+}
+.footer-bottom p.dateupdate {
+	text-align: center;
+}
+.footer-bottom .text-right {
+	text-align: center
+}
+.socialbg h2.headin-center {
+	text-align: center
+}
+.socialbg h4.send-feedback {
+	text-align: center
+}
+.socialbg h4.lkouniv-mail a {
+	text-align: center
+}
+.socialbg .commentsmail {
+	text-align: center
+}
+ul.social-network {
+	text-align: center;
+}
+}
+@media only screen and (max-width: 768px) {
+	.navbar-inverse .navbar-nav > li > a {
+    padding: 10px 15px !important;
+    transition-duration: .2s;
+}
+	.logo img {
+    max-width: 100%;
+    padding: 7px;
+    margin: auto;
+    display: table;
+}
+	.logo {
+    margin-top: 0px;
+    min-height:75px;
+    z-index: 70;
+    padding-left: 0px;
+    position: relative !important;
+}
+	.menuFxd { z-index:999;
+    position: relative !important;
+    right: 0;
+    left: 0;
+
+}
+	.searchdiv .form-control {
+    height: 45px;
+    background-color: rgba(255,255,255,.0);
+    border-radius: 0px;
+    border-bottom: 3px solid rgba(255,255,255,.5);
+    font-size: 16px;
+    color: #fff;
+    border: 0px;
+    border-bottom: 2px solid rgba(255,255,255,.8);
+}
+.searchclose {
+    font-size: 18px;
+}
+.uni-m-logo {
+    position: fixed !important;
+    left: -27px !important;
+    top: 0px !important;
+    margin: 0px !important;
+    max-height: 50px !important;
+    background: #03356e;
+    padding: 0px 20px;
+}
+.Prsrls-list li {
+    padding: 10px 15px !important;
+    text-align: center;
+    min-height: 358px;
+    box-sizing: border-box;
+    margin: 10px;
+     width: inherit;
+    float: left;
+    border: 1px solid #dddddd;
+    max-height: 358px;
+    overflow: hidden;
+}
+.innerbanner {
+    min-height: 100px;
+    background-image: url(../images/innbg.jpg);
+    background-repeat: no-repeat;
+    padding-top: 65px;
+    background-size: 100% 100%;
+}
+
+
+.mob-view{
+    position: fixed !important;
+    width: 100% !important;
+    top: 0px !important;
+    transition:2s all !important;
+}
+.top-main-menu .navbar .dropdown-menu > li > a:focus, .top-main-menu .dropdown-menu > li > a:hover {
+    color: #03356E !important;
+    -webkit-transform: scale(1.01);
+    transform: scale(1.01);
+}
+
+.top-nav ul { float:none !important;
+	margin: 0px;
+	padding: 0px;
+	text-align: center !important;
+}
+.top-nav ul li:nth-child(2) {
+	display: none !important
+}
+.top-nav ul li:nth-child(3) {
+	display: none !important
+}
+.top-nav ul li:nth-child(5) {
+	display: none !important
+}
+.top-nav ul li:nth-child(6) {
+	display: none !important
+}
+.top-nav ul li:nth-child(7) {
+	display: none !important
+}
+.light-learning:before {
+	right: 0px;
+}
+.archive-btn {
+	margin: 5px 7px 5px 0px;
+	width: 32.09%;
+}
+header .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+	background-color: #03356e;
+}
+.otherlink {
+	margin: 15px 0px;
+}
+.breadcrumb > .active {
+	color: #000;
+}
+.breadcrumb li {
+	color: #03356e;
+}
+.breadcrumb li a {
+	color: #03356e;
+}
+.minusmrgin {
+	margin-top: 0px;
+}
+.top-main-menu .navbar .dropdown-menu {
+	width: 100% !important;
+}
+.fbox {
+	padding: 0px 10px;
+}
+header {
+	position: relative !important;
+}
+.top-nav {
+	margin-left: 0px;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.light-learning {
+	position: relative;
+	background-color: rgba(0, 0, 0, 0.94);
+	padding: 0px 33%;
+}
+.afetrlogo{ display:block !important;}
+.beforelogo{ display:none !important} 
+.menuFxd .beforelogo {
+display: block !important;
+}
+/*.menuFxd .afetrlogo,.afetrlogo{display:block; margin-left:0px !important; max-width:100% !important;}*/
+.menuFxd .afetrlogo, .afetrlogo{
+	display:table;
+	margin: auto;
+	max-width: 100% !important;
+}
+.menuFxd {
+	position: relative;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+	background-color: #000;
+}
+.top-main-menu .navbar-nav, .other-menu .navbar-nav, .navbar-nav {
+	margin-left: 0px !important;
+}
+.nav > li {
+	border-bottom: 1px solid #eee;
+}
+.otherlink li {
+	width: 50%;
+}
+.welcome .bgmaroon {
+	padding: 15px 30px 30px 15px;
+}
+.newscroll {
+	margin-bottom: 30px;
+	padding-top: 1px;
+	padding-bottom: 5px;
+}
+.menu2wrap{ position:relative;}
+.menu2wrap .navbar-toggle{ background-color:#fff !important; border-color:#000 !important;}
+.menu2wrap .navbar-toggle .icon-bar{background-color:#6c6c6c}
+.secondmenu > li{ width:100% !important; float:none;}
+.menu2wrap .navbar-nav.sm-collapsible a.has-submenu {
+    padding-right:0px !important;
+}
+.secondmenu > li > a{color:#013990;}
+.secondmenu > li > a:before{background-color:#013990;}
+.secondmenu>li>a:focus, .secondmenu>li>a:hover {
+    color: #F3D455;
+    background-color:#013990 !important;
+}
+.secondmenu > .open > a, .secondmenu > .open > a:focus, .secondmenu > .open > a:hover {
+   color: #F3D455;
+    background-color:#013990 !important;
+}
+.colum-3 {
+    column-count:1 !important;
+    -webkit-column-count:1 !important;
+    -moz-column-count:1 !important;
+ 
+}
+.secondmenu .mega-dropdown-menu{ padding:15px 0px !important;}
+.mega-dropdown-menu > li > a{ color:#000 !important;}
+.mega-dropdown-menu > li > a:hover {
+	background-color: rgba(0,0,0,.2);
+	color: #000 !important;
+}
+#navbar-collapse2{ background-color:#fff; border-color:#000;}
+.padingtop{ padding-top:0px;}
+}
+@media only screen and (max-width:480px) {
+.breadcrumb {
+	text-align: left;
+}
+.inner h4 {
+	font-size: 16px;
+}
+.inner h3 {
+	font-size: 22px;
+}
+.inner h2 {
+	font-size: 18px;
+}
+.archive-btn {
+	margin: 5px 7px 5px 0px;
+	width: 31.09%;
+}
+footer .footer-link .col-xs-4 {
+	width: 100%
+}
+ul.social-network li {
+	margin: 0px 0px;
+}
+}
+@media only screen and (max-width:400px) {
+.archive-btn {
+	margin: 5px 8px 5px 0px;
+	width: 47%;
+}
+.otherlink li {
+	width: 100%;
+}
+.otherlink li img {
+	width: 100%;
+}
+.light-learning {
+	padding: 0px 21%;
+}
+.fbox {
+	padding: 15px 10px;
+	background: #141318;
+}
+.footer-link {
+	padding: 0px 0 8px 0;
+	color: #fff;
+}
+}
+ @media only screen and (max-width:360px) {
+	.light-learning {
+    padding: 0px 16%;
+}
+.archive-btn {
+	margin: 5px 6px 5px 0px;
+	width: 47%;
+}
+.social-circle li a {
+	width: 40px;
+	height: 40px;
+	font-size: 14px;
+	border: 2px solid rgba(0,0,0,.2);
+}
+.social-circle li i {
+	line-height: 40px;
+}
+}
+ @media only screen and (max-width: 320px) {
+}

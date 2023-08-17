@@ -1,0 +1,6 @@
+body{font-family:roboto;font-size:15px;background-size:cover;display:block;}
+.container{background-color:#521907d6;height:80%;width:40%;position:absolute;margin:7% 30%;background-attachment:fixed;border-radius:10px;}
+.form-group{margin:30px 0px;}
+.form-group .form-control{background-color:#55558287;border-bottom:2px solid white;border:none;color:red;font-size:17px;}
+.form-control:{border-bottom:2px solid white;}
+.under-container{margin-top:50px;}
